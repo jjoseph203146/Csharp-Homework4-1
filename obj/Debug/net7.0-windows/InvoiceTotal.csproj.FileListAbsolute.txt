@@ -1,0 +1,16 @@
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.exe
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.deps.json
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.runtimeconfig.json
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.dll
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.pdb
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.frmInvoiceTotal.resources
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.GenerateResource.cache
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfoInputs.cache
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfo.cs
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.dll
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\refint\InvoiceTotal.dll
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.pdb
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.genruntimeconfig.cache
+C:\C#\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\ref\InvoiceTotal.dll
